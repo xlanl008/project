@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+
+ <livesport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project.xsd">
+  <fotbal kontinent="Evropa">
+    <zeme vyber="Anglie">
+      <liga urci="prvni">
+        <vysledky rocnik="2016/2017">
+          <kolo>1</kolo>
+          <den>3</den>
+          <mesic>9</mesic>
+          <domaci_tym>Arsenal</domaci_tym>
+          <hostujci_tym>Chelsea</hostujci_tym>
+          <vysledek>3:0</vysledek>
+        </vysledky>
+        <program rocnik="2016/2017">
+          <kolo>2</kolo>
+          <den>12</den>
+          <mesic>9</mesic>
+          <domaci_tym>Manchester City</domaci_tym>
+          <hostujci_tym>Arsenal</hostujci_tym>
+        </program>
+        <tymy>
+          <tym TV="ARS">Arsenal</tym>
+          <umisteni>1</umisteni>
+          <soupiska>
+            <cislo_dresu>33</cislo_dresu>
+            <jmeno>Petr</jmeno>
+            <prijmeni>Cech</prijmeni>
+            <vek rok_narozeni="1984">33</vek>
+            <narodnost zkratka="CZE">Ceska</narodnost>
+            <pozice post="BR">brankar</pozice>
+            <statistiky>
+              <goly>0</goly>
+              <asistence>0</asistence>
+              <odehrane_zapasy>1</odehrane_zapasy>
+              <zlute_karty>0</zlute_karty>
+              <cervene_karty>0</cervene_karty>
+            </statistiky>
+          </soupiska>
+          <soupiska>
+            <cislo_dresu>7</cislo_dresu>
+            <jmeno>Alexis</jmeno>
+            <prijmeni>Sanchez</prijmeni>
+            <vek rok_narozeni="1989">28</vek>
+            <narodnost zkratka="CHL">Chile</narodnost>
+            <pozice post="LU">utocnik</pozice>
+            <statistiky>
+              <goly>2</goly>
+              <asistence>0</asistence>
+              <odehrane_zapasy>1</odehrane_zapasy>
+              <zlute_karty>0</zlute_karty>
+              <cervene_karty>0</cervene_karty>
+            </statistiky>
+          </soupiska>
+        </tymy>
+        <tabulka>
+          <poradi>1</poradi>
+          <tym>Arsenal</tym>
+          <odehrane_zapasy>1</odehrane_zapasy>
+          <vyhry>1</vyhry>
+          <prohry>0</prohry>
+          <remizy>0</remizy>
+          <body>3</body>
+        </tabulka>
+      </liga>
+    </zeme>
+  </fotbal>
+  
+  <fotbal kontinent="Evropa">
+    <zeme vyber="Spanelsko">
+      <liga urci="prvni">
+        <vysledky rocnik="2016/2017">
+          <kolo>1</kolo>
+          <den>4</den>
+          <mesic>9</mesic>
+          <domaci_tym>Real Madrid</domaci_tym>
+          <hostujci_tym>Barcelona</hostujci_tym>
+          <vysledek>2:0</vysledek>
+        </vysledky>
+        <program rocnik="2016/2017">
+          <kolo>2</kolo>
+          <den>11</den>
+          <mesic>9</mesic>
+          <domaci_tym>Sevilla</domaci_tym>
+          <hostujci_tym>Real Madrid</hostujci_tym>
+        </program>
+        <tymy>
+          <tym TV="RMA">Real Madrid</tym>
+          <umisteni>1</umisteni>
+          <soupiska>
+            <cislo_dresu>7</cislo_dresu>
+            <jmeno>Cristiano</jmeno>
+            <prijmeni>Ronaldo</prijmeni>
+            <vek rok_narozeni="1986">31</vek>
+            <narodnost zkratka="POR">Portugalska</narodnost>
+            <pozice post="LU">utocnik</pozice>
+            <statistiky>
+              <goly>2</goly>
+              <asistence>0</asistence>
+              <odehrane_zapasy>1</odehrane_zapasy>
+              <zlute_karty>0</zlute_karty>
+              <cervene_karty>0</cervene_karty>
+            </statistiky>
+          </soupiska>
+        </tymy>
+        <tabulka>
+          <poradi>1</poradi>
+          <tym>Real Madrid</tym>
+          <odehrane_zapasy>1</odehrane_zapasy>
+          <vyhry>1</vyhry>
+          <prohry>0</prohry>
+          <remizy>0</remizy>
+          <body>3</body>
+        </tabulka>
+      </liga>
+    </zeme>
+  </fotbal>
+  
+  <fotbal kontinent="Evropa">
+    <zeme vyber="Nemecko">
+      <liga urci="prvni">
+        <vysledky rocnik="2016/2017">
+          <kolo>1</kolo>
+          <den>3</den>
+          <mesic>9</mesic>
+          <domaci_tym>Dortmund</domaci_tym>
+          <hostujci_tym>Hamburk</hostujci_tym>
+          <vysledek>1:1</vysledek>
+        </vysledky>
+        <program rocnik="2016/2017">
+          <kolo>2</kolo>
+          <den>11</den>
+          <mesic>9</mesic>
+          <domaci_tym>Hertha</domaci_tym>
+          <hostujci_tym>Dortmund</hostujci_tym>
+        </program>
+        <tymy>
+          <tym TV="DOR">Dortmund</tym>
+          <umisteni>6</umisteni>
+          <soupiska>
+            <cislo_dresu>11</cislo_dresu>
+            <jmeno>Marco</jmeno>
+            <prijmeni>Reus</prijmeni>
+            <vek rok_narozeni="1990">27</vek>
+            <narodnost zkratka="GER">Nemecka</narodnost>
+            <pozice post="PK">zaloznik</pozice>
+            <statistiky>
+              <goly>0</goly>
+              <asistence>0</asistence>
+              <odehrane_zapasy>1</odehrane_zapasy>
+              <zlute_karty>1</zlute_karty>
+              <cervene_karty>1</cervene_karty>
+            </statistiky>
+          </soupiska>
+        </tymy>
+        <tabulka>
+          <poradi>6</poradi>
+          <tym>Dortmund</tym>
+          <odehrane_zapasy>1</odehrane_zapasy>
+          <vyhry>0</vyhry>
+          <prohry>0</prohry>
+          <remizy>1</remizy>
+          <body>1</body>
+        </tabulka>
+      </liga>
+    </zeme>
+  </fotbal>
+  
+  <fotbal kontinent="Evropa">
+    <zeme vyber="Anglie">
+      <liga urci="prvni">
+        <vysledky rocnik="2016/2017">
+          <kolo>3</kolo>
+          <den>4</den>
+          <mesic>9</mesic>
+          <domaci_tym>Arsenal</domaci_tym>
+          <hostujci_tym>Chelsea</hostujci_tym>
+          <vysledek>1:0</vysledek>
+        </vysledky>
+        <program rocnik="2016/2017">
+          <kolo>2</kolo>
+          <den>12</den>
+          <mesic>9</mesic>
+          <domaci_tym>Chelsea</domaci_tym>
+          <hostujci_tym>Manchester United</hostujci_tym>
+        </program>
+        <tymy>
+          <tym TV="CHE">Chelsea</tym>
+          <umisteni>13</umisteni>
+          <soupiska>
+            <cislo_dresu>10</cislo_dresu>
+            <jmeno>Eden</jmeno>
+            <prijmeni>Hazard</prijmeni>
+            <vek rok_narozeni="1992">24</vek>
+            <narodnost zkratka="BEL">Belgicka</narodnost>
+            <pozice post="LZ">zaloznik</pozice>
+            <statistiky>
+              <goly>0</goly>
+              <asistence>0</asistence>
+              <odehrane_zapasy>1</odehrane_zapasy>
+              <zlute_karty>0</zlute_karty>
+              <cervene_karty>1</cervene_karty>
+            </statistiky>
+          </soupiska>
+        </tymy>
+        <tabulka>
+          <poradi>15</poradi>
+          <tym>Chelsea</tym>
+          <odehrane_zapasy>1</odehrane_zapasy>
+          <vyhry>0</vyhry>
+          <prohry>1</prohry>
+          <remizy>0</remizy>
+          <body>0</body>
+        </tabulka>
+      </liga>
+    </zeme>
+  </fotbal>
+  
+  <fotbal kontinent="Evropa">
+    <zeme vyber="Spanelsko">
+      <liga urci="prvni">
+        <vysledky rocnik="2016/2017">
+          <kolo>1</kolo>
+          <den>4</den>
+          <mesic>9</mesic>
+          <domaci_tym>Atltico Madrid</domaci_tym>
+          <hostujci_tym>Real Betis</hostujci_tym>
+          <vysledek>2:1</vysledek>
+        </vysledky>
+        <program rocnik="2016/2017">
+          <kolo>2</kolo>
+          <den>12</den>
+          <mesic>9</mesic>
+          <domaci_tym>Barcelona</domaci_tym>
+          <hostujci_tym>Atletico Madrid</hostujci_tym>
+        </program>
+        <tymy>
+          <tym TV="ATL">Atletico Madrid</tym>
+          <umisteni>2</umisteni>
+          <soupiska>
+            <cislo_dresu>9</cislo_dresu>
+            <jmeno>Fernando</jmeno>
+            <prijmeni>Torres</prijmeni>
+            <vek rok_narozeni="1983">34</vek>
+            <narodnost zkratka="SPA">Spanelska</narodnost>
+            <pozice post="SU">útočník</pozice>
+            <statistiky>
+              <goly>1</goly>
+              <asistence>0</asistence>
+              <odehrane_zapasy>1</odehrane_zapasy>
+              <zlute_karty>0</zlute_karty>
+              <cervene_karty>0</cervene_karty>
+            </statistiky>
+          </soupiska>
+        </tymy>
+        <tabulka>
+          <poradi>2</poradi>
+          <tym>Atletico Madrid</tym>
+          <odehrane_zapasy>1</odehrane_zapasy>
+          <vyhry>1</vyhry>
+          <prohry>0</prohry>
+          <remizy>0</remizy>
+          <body>3</body>
+        </tabulka>
+      </liga>
+    </zeme>
+  </fotbal>
+</livesport>
